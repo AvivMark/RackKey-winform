@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E3587E6-A56E-47AE-9F47-BB1052AFFA3C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RackKeyV07</RootNamespace>
+    <AssemblyName>RackKeyV07</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>0.7.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>RackKey.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>RackKeyV07.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Control.Draggable, Version=1.0.5049.269, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Control.Draggable.1.0.5049.269\lib\net35-Client\Control.Draggable.dll</HintPath>
+    </Reference>
+    <Reference Include="DotNetZip, Version=1.13.8.0, Culture=neutral, PublicKeyToken=6583c7c814667745, processorArchitecture=MSIL">
+      <HintPath>packages\DotNetZip.1.13.8\lib\net40\DotNetZip.dll</HintPath>
+    </Reference>
+    <Reference Include="Magick.NET-Q16-AnyCPU, Version=7.21.1.0, Culture=neutral, PublicKeyToken=2004825badfa91ec, processorArchitecture=MSIL">
+      <HintPath>packages\Magick.NET-Q16-AnyCPU.7.21.1\lib\net40\Magick.NET-Q16-AnyCPU.dll</HintPath>
+    </Reference>
+    <Reference Include="Magick.NET.Core, Version=4.1.0.0, Culture=neutral, PublicKeyToken=2004825badfa91ec, processorArchitecture=MSIL">
+      <HintPath>packages\Magick.NET.Core.4.1.0\lib\net40\Magick.NET.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Decoration.cs" />
+    <Compile Include="Classes\DevOps.cs" />
+    <Compile Include="Classes\FileAssociation.cs" />
+    <Compile Include="Classes\ImageExtensions.cs" />
+    <Compile Include="FixedExifPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\AddAreaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddAreaForm.Designer.cs">
+      <DependentUpon>AddAreaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AddComponentTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddComponentTypeForm.Designer.cs">
+      <DependentUpon>AddComponentTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ChangeComponentDescriptionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChangeComponentDescriptionForm.Designer.cs">
+      <DependentUpon>ChangeComponentDescriptionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ChangeRackPictureForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChangeRackPictureForm.Designer.cs">
+      <DependentUpon>ChangeRackPictureForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\AreaPicture.cs" />
+    <Compile Include="Classes\DBHandler.cs" />
+    <Compile Include="Forms\AddComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddComponent.designer.cs">
+      <DependentUpon>AddComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Component.cs" />
+    <Compile Include="Classes\ComponentType.cs" />
+    <Compile Include="Classes\ControlMoverOrResizer.cs" />
+    <Compile Include="DoubleBufferdPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\AddRackForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AddRackForm.Designer.cs">
+      <DependentUpon>AddRackForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ChangeRackName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ChangeRackName.designer.cs">
+      <DependentUpon>ChangeRackName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\EditComponentTypesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\EditComponentTypesForm.Designer.cs">
+      <DependentUpon>EditComponentTypesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSplashScreen.Designer.cs">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\InfoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\InfoForm.Designer.cs">
+      <DependentUpon>InfoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainRoomView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainRoomView.Designer.cs">
+      <DependentUpon>MainRoomView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Globs.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Classes\Project.cs" />
+    <Compile Include="Forms\ProjectStartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ProjectStartForm.Designer.cs">
+      <DependentUpon>ProjectStartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Forms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Rack.cs" />
+    <Compile Include="Forms\RackViewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\RackViewForm.designer.cs">
+      <DependentUpon>RackViewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TransparentPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Forms\AddAreaForm.resx">
+      <DependentUpon>AddAreaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddComponent.resx">
+      <DependentUpon>AddComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoubleBufferdPanel.resx">
+      <DependentUpon>DoubleBufferdPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddComponentTypeForm.resx">
+      <DependentUpon>AddComponentTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AddRackForm.resx">
+      <DependentUpon>AddRackForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ChangeComponentDescriptionForm.resx">
+      <DependentUpon>ChangeComponentDescriptionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ChangeRackName.resx">
+      <DependentUpon>ChangeRackName.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ChangeRackPictureForm.resx">
+      <DependentUpon>ChangeRackPictureForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\EditComponentTypesForm.resx">
+      <DependentUpon>EditComponentTypesForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\InfoForm.resx">
+      <DependentUpon>InfoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainRoomView.resx">
+      <DependentUpon>MainRoomView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\ProjectStartForm.resx">
+      <DependentUpon>ProjectStartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\RackViewForm.resx">
+      <DependentUpon>RackViewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AppData\FarmDB.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="MetroFramework.txt" />
+    <Content Include="RackKey.ico" />
+    <None Include="Resources\RackKeyImage1.png" />
+    <None Include="Resources\SplashScreenImage.png" />
+    <None Include="Resources\InfoIcon.png" />
+    <None Include="Resources\InfoIconHover.png" />
+    <None Include="Resources\DevOps Button.png" />
+    <None Include="Resources\DevOps Button Hover.png" />
+    <Content Include="XMLFile.xml" />
+    <None Include="Resources\Habasor.png" />
+    <None Include="Resources\WhatsApp Image 2020-07-23 at 08.57.51.jpeg" />
+    <None Include="Resources\top-view-chair-clipart-png-office-chair-top-view-png-640_509.png" />
+    <None Include="Resources\top_TV.png" />
+    <None Include="Resources\pict--center-table-leaf-tables-vector-stencils-library.png" />
+    <None Include="Resources\doortransparent.png" />
+    <None Include="Resources\desktop-computer-top-view.png" />
+    <None Include="Resources\AddComponentHover.png" />
+    <None Include="Resources\AddIconTypeHover.png" />
+    <None Include="Resources\AddIconType.png" />
+    <None Include="Resources\ComponentTypeAddIcon.png" />
+    <None Include="Resources\top_rack_border.png" />
+    <None Include="Resources\strip_1u.png" />
+    <None Include="Resources\server-36950_640.png" />
+    <None Include="Resources\Netapp.jpg" />
+    <None Include="Resources\mainframe-156011_640.png" />
+    <None Include="Resources\juniper_router_m7.jpg" />
+    <None Include="Resources\ibm-161589_640.png" />
+    <None Include="Resources\ethernet-161588_640.png" />
+    <None Include="Resources\ethernet-156573_640.png" />
+    <None Include="Resources\computer-158930_640.png" />
+    <None Include="Resources\computer-158777_1280.png" />
+    <None Include="Resources\computer-155960_640.png" />
+    <None Include="Resources\cisco Catalyst 2960 24port.jpg" />
+    <None Include="Resources\Catalyst 2960 48port.jpg" />
+    <None Include="Resources\Bottom_rack_border.png" />
+    <None Include="Resources\Addbutton.png" />
+    <None Include="Resources\61e-4DvDNcL.jpg" />
+    <None Include="Resources\48PortPanel.jpeg" />
+    <None Include="Resources\19urack_small.png" />
+    <None Include="Resources\19Urack.png" />
+    <None Include="Resources\ServerRack.png" />
+    <None Include="Resources\cabinets.png" />
+    <None Include="Resources\CogWheel.ico" />
+    <None Include="Resources\Settings.png" />
+    <None Include="Resources\HoverSettings.png" />
+    <None Include="Resources\HoverEdit.png" />
+    <None Include="Resources\Edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

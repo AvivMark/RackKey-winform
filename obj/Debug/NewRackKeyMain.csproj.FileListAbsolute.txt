@@ -1,0 +1,30 @@
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\NewRackKeyMain.exe.config
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\NewRackKeyMain.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\NewRackKeyMain.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\Control.Draggable.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\MetroFramework.Design.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\MetroFramework.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.MainRoomView.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.Properties.Resources.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.csproj.GenerateResource.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.csproj.CoreCompileInputs.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.csproj.CopyComplete
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\NewRackKeyMain\obj\Debug\NewRackKeyMain.csprojAssemblyReference.cache
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\NewRackKeyMain.exe.config
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\NewRackKeyMain.exe
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\NewRackKeyMain.pdb
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\Control.Draggable.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\MetroFramework.Design.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\MetroFramework.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.csprojAssemblyReference.cache
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.MainRoomView.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.Properties.Resources.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.SettingsForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.csproj.GenerateResource.cache
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.csproj.CopyComplete
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.exe
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\NewRackKeyMain\obj\Debug\NewRackKeyMain.pdb

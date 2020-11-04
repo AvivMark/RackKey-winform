@@ -1,0 +1,72 @@
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\AppData\FarmDB.accdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\RackKeyV07.exe.config
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\RackKeyV07.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\RackKeyV07.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\Control.Draggable.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\DotNetZip.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\Magick.NET-Q16-AnyCPU.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\Magick.NET.Core.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\MetroFramework.Design.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\MetroFramework.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\MetroFramework.Fonts.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\DotNetZip.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\DotNetZip.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\Magick.NET-Q16-AnyCPU.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\bin\Release\Magick.NET.Core.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.Forms.AddAreaForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.AddComponent.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.DoubleBufferedPanel.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.AddComponentTypeForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.AddRackForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.Forms.ChangeComponentDescriptionForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.ChangeRackName.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.ChangeRackPictureForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.Forms.EditComponentTypesForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.Forms.frmSplashScreen.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.Forms.InfoForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.MainRoomView.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.ProjectStartForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.Properties.Resources.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.SettingsForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.RackViewForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.csproj.GenerateResource.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.csproj.CoreCompileInputs.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.csproj.CopyComplete
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.7\obj\Release\RackKeyV07.pdb
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\AppData\FarmDB.accdb
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\RackKeyV07.exe.config
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\RackKeyV07.exe
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\RackKeyV07.pdb
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\Control.Draggable.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\DotNetZip.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\Magick.NET-Q16-AnyCPU.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\Magick.NET.Core.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\MetroFramework.Design.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\MetroFramework.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\MetroFramework.Fonts.dll
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\DotNetZip.pdb
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\DotNetZip.xml
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\Magick.NET-Q16-AnyCPU.xml
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\bin\Release\Magick.NET.Core.xml
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.csprojAssemblyReference.cache
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.Forms.AddAreaForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.AddComponent.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.DoubleBufferedPanel.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.AddComponentTypeForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.AddRackForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.Forms.ChangeComponentDescriptionForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.ChangeRackName.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.ChangeRackPictureForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.Forms.EditComponentTypesForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.Forms.frmSplashScreen.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.Forms.InfoForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.MainRoomView.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.ProjectStartForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.Properties.Resources.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.SettingsForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.RackViewForm.resources
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.csproj.GenerateResource.cache
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.csproj.CopyComplete
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.exe
+C:\Users\aviv2\OneDrive\Desktop\Projects\RackKey\V0.7\obj\Release\RackKeyV07.pdb

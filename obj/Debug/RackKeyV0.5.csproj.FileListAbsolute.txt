@@ -1,0 +1,4 @@
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\RackKeyV0.5\obj\Debug\RackKeyV0.5.csprojAssemblyReference.cache
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\RackKeyV0.5\obj\Debug\RackKeyV0._5.MainRoomView.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\RackKeyV0.5\obj\Debug\RackKeyV0._5.Properties.Resources.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.5\RackKeyV0.5\obj\Debug\RackKeyV0.5.csproj.GenerateResource.cache

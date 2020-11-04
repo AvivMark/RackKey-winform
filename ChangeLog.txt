@@ -1,0 +1,29 @@
+##########################################################
+##########################################################
+#####V0.6.1 RackKey ###########################################
+##########################################################
+
+###################
+# Known Bugs
+###################
+- The Software is moving too slow
+- software crush when adding a rack or changing rack picture(Fixed)
+- sometimes the pictures are not in the correct position
+- decorations Pictures are not transparent
+- Dont Delete Pictures
+###################
+# Bugs Fixed
+###################
+
+
+###################
+# New Features
+###################
+- Splash Screen
+- 
+
+
+###################
+# Future Plans
+###################
+- Component Type Editing Window

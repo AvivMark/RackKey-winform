@@ -1,0 +1,96 @@
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csprojAssemblyReference.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.Forms.AddAreaForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.AddComponent.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.DoubleBufferedPanel.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.AddComponentTypeForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.AddRackForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.Forms.ChangeComponentDescriptionForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.ChangeRackName.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.ChangeRackPictureForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.MainRoomView.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.SettingsForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.RackViewForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csproj.GenerateResource.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csproj.CoreCompileInputs.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\AppData\FarmDB.accdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\Control.Draggable.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\MetroFramework.Design.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\MetroFramework.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csproj.CopyComplete
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\DotNetZip.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\DotNetZip.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\DotNetZip.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.ProjectStartForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\RackKeyV06.exe.config
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\RackKeyV06.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\RackKeyV06.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.Properties.Resources.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.pdb
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\AppData\FarmDB.accdb
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\RackKeyV06.exe.config
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\RackKeyV06.exe
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\RackKeyV06.pdb
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\Control.Draggable.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\DotNetZip.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\MetroFramework.Design.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\MetroFramework.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\DotNetZip.pdb
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\bin\Debug\DotNetZip.xml
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.Forms.AddAreaForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.AddComponent.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.DoubleBufferedPanel.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.AddComponentTypeForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.AddRackForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.Forms.ChangeComponentDescriptionForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.ChangeRackName.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.ChangeRackPictureForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.MainRoomView.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.ProjectStartForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.Properties.Resources.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.SettingsForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.RackViewForm.resources
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csproj.GenerateResource.cache
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csproj.CopyComplete
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.exe
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.pdb
+C:\Users\aviv2\OneDrive\Desktop\מחשב נייח\Visual Studio Projects\ServerFarm\V0.6\obj\Debug\RackKeyV06.csprojAssemblyReference.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\AppData\FarmDB.accdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\RackKeyV06.exe.config
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\RackKeyV06.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\RackKeyV06.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\Control.Draggable.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\DotNetZip.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\MetroFramework.Design.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\MetroFramework.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\MetroFramework.Fonts.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\DotNetZip.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\DotNetZip.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.Forms.AddAreaForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.AddComponent.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.DoubleBufferedPanel.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.AddComponentTypeForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.AddRackForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.Forms.ChangeComponentDescriptionForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.ChangeRackName.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.ChangeRackPictureForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.MainRoomView.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.ProjectStartForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.Properties.Resources.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.SettingsForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.RackViewForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.csproj.GenerateResource.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.csproj.CoreCompileInputs.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.csproj.CopyComplete
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.exe
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.pdb
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.Forms.frmSplashScreen.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.csprojAssemblyReference.cache
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\Magick.NET-Q16-AnyCPU.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\Magick.NET.Core.dll
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\Magick.NET-Q16-AnyCPU.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\bin\Debug\Magick.NET.Core.xml
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.Forms.EditComponentTypesForm.resources
+D:\Users\aviv\Desktop\Visual Studio Projects\ServerFarm\V0.6.1\V0.6\obj\Debug\RackKeyV06.Forms.InfoForm.resources

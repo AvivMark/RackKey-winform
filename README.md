@@ -1,5 +1,5 @@
 # RackKey software
-![RackKey Icon](https://raw.githubusercontent.com/AvivSoftware/RackKey-winform/main/RackKey.ico)
+![RackKey Icon](https://github.com/AvivSoftware/RackKey-winform/blob/main/Resources/RackKeyImage.png)
 <br>
 View your server Room and document all of the componenets using RackKey
 

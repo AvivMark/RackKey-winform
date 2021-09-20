@@ -1,7 +1,7 @@
 # RackKey software
 ![RackKey Icon](https://github.com/AvivSoftware/RackKey-winform/blob/main/Resources/RackKeyImage.png)
 <br>
-View your server Room and document all of the componenets using RackKey
+Gives you the ability to view your Data Center and document all of the components inside using RackKey
 
 ### current version 
 0.7
